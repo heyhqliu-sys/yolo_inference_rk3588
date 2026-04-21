@@ -1,0 +1,2 @@
+# yolo_inference_rk3588
+yolov8模型板端推理示例
